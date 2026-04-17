@@ -1,0 +1,1 @@
+Uma feature branch (ramo de funcionalidade) é uma cópia isolada e temporária do código principal (geralmente main ou master) em sistemas de controle de versão como o Git. Ela serve para desenvolver novas funcionalidades, corrigir bugs ou testar ideias sem alterar a base estável, sendo integrada de volta apenas após a conclusão e revisão. 
